@@ -17,3 +17,10 @@ NeoForge compatibility does not grant permission to use Minecraft names, copied 
 
 Implementation foundation only. Keep preview-only until Openlands data, generated assets, recipes, worldgen, save/load, and waystone state pass parity tests.
 
+## Preview Payload
+
+- `preview-artifacts/echoopenlandsprotocol-0.1.0-neoforge.jar`
+- `preview-artifacts/echoopenlandsprotocol-0.1.0-sources.jar`
+- `manifests/modpack-index-entry.preview.json`
+
+These files are checked in for repo visibility and handoff review only. They are not approved player-facing release artifacts.
