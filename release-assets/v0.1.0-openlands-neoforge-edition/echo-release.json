@@ -1,0 +1,54 @@
+{
+  "formatVersion": 2,
+  "pack": "openlands-neoforge-edition",
+  "name": "Openlands NeoForge Edition",
+  "version": "0.1.0",
+  "channel": "alpha",
+  "releasedAt": "2026-06-13T07:14:52.103Z",
+  "manifestAsset": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+  "manifestSha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+  "artifactMode": "zip",
+  "artifactAsset": "openlands-neoforge-edition-0.1.0.zip",
+  "artifactSha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
+  "artifactSize": 211752,
+  "packs": [
+    {
+      "pack": "openlands-neoforge-edition",
+      "name": "Openlands NeoForge Edition",
+      "version": "0.1.0",
+      "channel": "alpha",
+      "manifestAsset": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "artifactAsset": "openlands-neoforge-edition-0.1.0.zip"
+    }
+  ],
+  "assets": [
+    {
+      "name": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "role": "pack-manifest",
+      "sha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+      "size": 4625
+    },
+    {
+      "name": "openlands-neoforge-edition-0.1.0.zip",
+      "role": "pack-artifact",
+      "sha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
+      "size": 211752
+    },
+    {
+      "name": "echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "role": "pack-file",
+      "path": "mods/echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "sha256": "6670f8c7c9eaf66ba15fa479e9bfcaa094b92f89847b1d05dbfcdc87ab41f886",
+      "size": 289541
+    }
+  ],
+  "releaseGate": {
+    "status": "warning",
+    "publicAlphaReady": false,
+    "reason": "Published as a prerelease handoff. Do not promote to approved until Openlands readiness blockers clear."
+  },
+  "notes": [
+    "Openlands NeoForge Edition prerelease assembled from the compiled echoopenlandsprotocol NeoForge artifact.",
+    "This is a checksum-backed prerelease handoff. Keep public-alpha validation in warning until the remaining launcher, playtest, save/load, and legal gates pass."
+  ]
+}

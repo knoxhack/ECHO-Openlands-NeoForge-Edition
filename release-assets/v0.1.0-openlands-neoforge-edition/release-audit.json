@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-06-13T07:14:52.103Z",
+  "repository": "knoxhack/ECHO-Openlands-NeoForge-Edition",
+  "releaseTag": "v0.1.0-openlands-neoforge-edition",
+  "status": "verified-prerelease-assets",
+  "releaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
+  "assetDirectory": "release-assets/v0.1.0-openlands-neoforge-edition",
+  "uploadedReleaseAssets": [
+    "openlands-neoforge-edition-0.1.0.zip",
+    "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+    "checksums.txt",
+    "echo-release.json"
+  ],
+  "sidecarAssets": [
+    "release-audit.json"
+  ],
+  "assets": [
+    {
+      "name": "openlands-neoforge-edition-0.1.0.zip",
+      "size": 211752,
+      "sha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db"
+    },
+    {
+      "name": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "size": 4625,
+      "sha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1"
+    },
+    {
+      "name": "checksums.txt",
+      "size": 302,
+      "sha256": "6a4623f527987cddc87a0832b1683d7af681c8e247daa3c09b327f45a554354c"
+    },
+    {
+      "name": "echo-release.json",
+      "size": 2054,
+      "sha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8"
+    }
+  ],
+  "zip": {
+    "file": "openlands-neoforge-edition-0.1.0.zip",
+    "entries": 4,
+    "sha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db"
+  },
+  "checksumCoverage": {
+    "total": 3,
+    "releaseAssetFiles": 3,
+    "zipEntries": 0,
+    "missing": 0,
+    "mismatched": 0
+  },
+  "checksumEntries": [
+    {
+      "file": "openlands-neoforge-edition-0.1.0.zip",
+      "expectedSha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
+      "actualSha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "openlands-neoforge-edition-0.1.0.zip",
+      "size": 211752,
+      "ok": true
+    },
+    {
+      "file": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "expectedSha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+      "actualSha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "size": 4625,
+      "ok": true
+    },
+    {
+      "file": "echo-release.json",
+      "expectedSha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8",
+      "actualSha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8",
+      "coveredBy": "release-asset-file",
+      "matchedPath": "echo-release.json",
+      "size": 2054,
+      "ok": true
+    }
+  ],
+  "missingChecksumEntries": [],
+  "mismatchedChecksumEntries": []
+}

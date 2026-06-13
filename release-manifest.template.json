@@ -111,5 +111,50 @@
     "waystone_state_save_load_pass",
     "legal_content_audit_pass"
   ],
-  "artifacts": []
+  "artifacts": [
+    {
+      "role": "pack-archive",
+      "file": "openlands-neoforge-edition-0.1.0.zip",
+      "path": "release-assets/v0.1.0-openlands-neoforge-edition/openlands-neoforge-edition-0.1.0.zip",
+      "size": 211752,
+      "sha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
+      "sourceReleaseTag": "v0.1.0-openlands-neoforge-edition",
+      "sourceReleaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
+      "downloadUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/download/v0.1.0-openlands-neoforge-edition/openlands-neoforge-edition-0.1.0.zip",
+      "lfs": true
+    },
+    {
+      "role": "pack-manifest",
+      "file": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "path": "release-assets/v0.1.0-openlands-neoforge-edition/openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "size": 4625,
+      "sha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+      "sourceReleaseTag": "v0.1.0-openlands-neoforge-edition",
+      "sourceReleaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
+      "downloadUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/download/v0.1.0-openlands-neoforge-edition/openlands-neoforge-edition-alpha-0.1.0.pack.json",
+      "lfs": false
+    },
+    {
+      "role": "checksums",
+      "file": "checksums.txt",
+      "path": "release-assets/v0.1.0-openlands-neoforge-edition/checksums.txt",
+      "size": 302,
+      "sha256": "6a4623f527987cddc87a0832b1683d7af681c8e247daa3c09b327f45a554354c",
+      "sourceReleaseTag": "v0.1.0-openlands-neoforge-edition",
+      "sourceReleaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
+      "downloadUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/download/v0.1.0-openlands-neoforge-edition/checksums.txt",
+      "lfs": false
+    },
+    {
+      "role": "echo-release",
+      "file": "echo-release.json",
+      "path": "release-assets/v0.1.0-openlands-neoforge-edition/echo-release.json",
+      "size": 2054,
+      "sha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8",
+      "sourceReleaseTag": "v0.1.0-openlands-neoforge-edition",
+      "sourceReleaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
+      "downloadUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/download/v0.1.0-openlands-neoforge-edition/echo-release.json",
+      "lfs": false
+    }
+  ]
 }

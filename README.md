@@ -24,3 +24,11 @@ Implementation foundation only. Keep preview-only until Openlands data, generate
 - `manifests/modpack-index-entry.preview.json`
 
 These files are checked in for repo visibility and handoff review only. They are not approved player-facing release artifacts.
+
+## Release Assets
+
+- GitHub prerelease tag: `v0.1.0-openlands-neoforge-edition`
+- Checked-in payloads: `release-assets/v0.1.0-openlands-neoforge-edition/`
+- Uploaded assets: `openlands-neoforge-edition-0.1.0.zip`, `openlands-neoforge-edition-alpha-0.1.0.pack.json`, `checksums.txt`, `echo-release.json`
+
+These prerelease assets are checksum-backed handoff artifacts. Keep Release Index validation in warning until the remaining Openlands public-alpha gates pass.
