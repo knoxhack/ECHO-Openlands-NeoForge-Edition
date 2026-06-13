@@ -2,7 +2,7 @@
   "schema": "echo.openlands.edition.alpha_systems_report.v1",
   "status": "preflight_passed",
   "realRuntimeAlphaSystemsRequiredBeforePublicAlpha": true,
-  "generatedAt": "2026-06-13T00:23:02.694Z",
+  "generatedAt": "2026-06-13T06:55:09.772Z",
   "dryRun": false,
   "packId": "openlands-neoforge-edition",
   "displayName": "Openlands NeoForge Edition",

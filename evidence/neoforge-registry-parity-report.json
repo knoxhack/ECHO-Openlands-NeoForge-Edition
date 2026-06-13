@@ -2,7 +2,7 @@
   "schema": "echo.openlands.edition.registry_parity_report.v1",
   "status": "preflight_passed",
   "realRegistryParityExecutionRequiredBeforePublicAlpha": true,
-  "generatedAt": "2026-06-13T00:23:00.738Z",
+  "generatedAt": "2026-06-13T06:55:11.544Z",
   "dryRun": false,
   "packId": "openlands-neoforge-edition",
   "displayName": "Openlands NeoForge Edition",

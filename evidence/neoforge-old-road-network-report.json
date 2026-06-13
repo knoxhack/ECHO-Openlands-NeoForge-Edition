@@ -2,7 +2,7 @@
   "schema": "echo.openlands.edition.old_road_network_report.v1",
   "status": "preflight_passed",
   "realRuntimeOldRoadNetworkRequiredBeforePublicAlpha": true,
-  "generatedAt": "2026-06-13T00:23:02.544Z",
+  "generatedAt": "2026-06-13T06:55:11.379Z",
   "dryRun": false,
   "packId": "openlands-neoforge-edition",
   "displayName": "Openlands NeoForge Edition",

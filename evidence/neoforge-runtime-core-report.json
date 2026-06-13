@@ -1,7 +1,7 @@
 {
   "schema": "echo.openlands.edition.runtime_core_report.v1",
   "status": "passed",
-  "generatedAt": "2026-06-13T00:23:01.937Z",
+  "generatedAt": "2026-06-13T06:55:13.062Z",
   "dryRun": false,
   "packId": "openlands-neoforge-edition",
   "displayName": "Openlands NeoForge Edition",

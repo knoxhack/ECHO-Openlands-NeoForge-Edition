@@ -2,7 +2,7 @@
   "schema": "echo.openlands.edition.legal_content_audit_report.v1",
   "status": "preflight_passed",
   "publicReleaseAllowed": false,
-  "generatedAt": "2026-06-13T00:23:03.279Z",
+  "generatedAt": "2026-06-13T06:55:11.220Z",
   "dryRun": false,
   "packId": "openlands-neoforge-edition",
   "displayName": "Openlands NeoForge Edition",
@@ -27,7 +27,7 @@
     ]
   },
   "scanSummary": {
-    "publicIdentityValues": 1606,
+    "publicIdentityValues": 1610,
     "assetPaths": 262,
     "forbiddenPublicTerms": 22,
     "blockAssetsChecked": 26,
