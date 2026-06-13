@@ -6,7 +6,7 @@
   "channel": "alpha",
   "releasedAt": "2026-06-13T07:14:52.103Z",
   "manifestAsset": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+  "manifestSha256": "1e601dedc57e0c6d77045bc2e46ad0e4d604b2960daf43d2204a23f7362d994c",
   "artifactMode": "zip",
   "artifactAsset": "openlands-neoforge-edition-0.1.0.zip",
   "artifactSha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
@@ -25,8 +25,8 @@
     {
       "name": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
-      "size": 4625
+      "sha256": "1e601dedc57e0c6d77045bc2e46ad0e4d604b2960daf43d2204a23f7362d994c",
+      "size": 5455
     },
     {
       "name": "openlands-neoforge-edition-0.1.0.zip",
