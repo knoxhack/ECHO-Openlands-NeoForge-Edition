@@ -23,18 +23,18 @@
     },
     {
       "name": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
-      "size": 4625,
-      "sha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1"
+      "size": 19599,
+      "sha256": "7a2e90f354eccad8b4017560dd291f0101351f991c522d3d85de46609313fa7e"
     },
     {
       "name": "checksums.txt",
       "size": 302,
-      "sha256": "6a4623f527987cddc87a0832b1683d7af681c8e247daa3c09b327f45a554354c"
+      "sha256": "1cb07eada5e35892443a85f21b1b8452de620eb2ba2238be11c1de30e414e01a"
     },
     {
       "name": "echo-release.json",
-      "size": 2054,
-      "sha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8"
+      "size": 2055,
+      "sha256": "5bc78bf5e00723bf52e37c491a141e9fc422a535fbe2f12258c87d6f0ce09bec"
     }
   ],
   "zip": {
@@ -61,20 +61,20 @@
     },
     {
       "file": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
-      "expectedSha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
-      "actualSha256": "a4041016bf5f75a394682ea5ec3838615c888d2170ad2e303eb4d3411fc8a8b1",
+      "expectedSha256": "7a2e90f354eccad8b4017560dd291f0101351f991c522d3d85de46609313fa7e",
+      "actualSha256": "7a2e90f354eccad8b4017560dd291f0101351f991c522d3d85de46609313fa7e",
       "coveredBy": "release-asset-file",
       "matchedPath": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
-      "size": 4625,
+      "size": 19599,
       "ok": true
     },
     {
       "file": "echo-release.json",
-      "expectedSha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8",
-      "actualSha256": "9eca929b13f3393c26495fe5a16a97b15fd49a76e2502ea0f6505ed8180408e8",
+      "expectedSha256": "5bc78bf5e00723bf52e37c491a141e9fc422a535fbe2f12258c87d6f0ce09bec",
+      "actualSha256": "5bc78bf5e00723bf52e37c491a141e9fc422a535fbe2f12258c87d6f0ce09bec",
       "coveredBy": "release-asset-file",
       "matchedPath": "echo-release.json",
-      "size": 2054,
+      "size": 2055,
       "ok": true
     }
   ],
