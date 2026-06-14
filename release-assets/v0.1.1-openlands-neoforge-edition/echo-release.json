@@ -4,14 +4,14 @@
   "name": "Openlands NeoForge Edition",
   "version": "0.1.1",
   "channel": "alpha",
-  "releasedAt": "2026-06-14T19:43:26.411Z",
+  "releasedAt": "2026-06-14T19:49:40.799Z",
   "manifestAsset": "openlands-neoforge-edition-alpha-0.1.1.pack.json",
-  "manifestSha256": "972f091efc3115c95305255225acb1bc0948cd4e1a7bd7b0c9378dfa1361c507",
-  "manifestSize": 52579,
+  "manifestSha256": "2971c9c8cc0c235737ad846a42d7355be334709864def5b8c011f9577cab8000",
+  "manifestSize": 52033,
   "artifactMode": "zip",
   "artifactAsset": "openlands-neoforge-edition-0.1.1.zip",
-  "artifactSha256": "b7c92e0d65c0fbb95d76a544bd7722f312b932b70e2073a6f94c15db835a43d3",
-  "artifactSize": 112279534,
+  "artifactSha256": "97efefa870483eb6d963ceb45dd05d02075b4bd2720e9c3ddd7711640f9717fd",
+  "artifactSize": 112279129,
   "moduleRelease": "modules-openlands-client-fix-20260614",
   "packs": [
     {
@@ -27,14 +27,14 @@
     {
       "name": "openlands-neoforge-edition-alpha-0.1.1.pack.json",
       "role": "pack-manifest",
-      "sha256": "972f091efc3115c95305255225acb1bc0948cd4e1a7bd7b0c9378dfa1361c507",
-      "size": 52579
+      "sha256": "2971c9c8cc0c235737ad846a42d7355be334709864def5b8c011f9577cab8000",
+      "size": 52033
     },
     {
       "name": "openlands-neoforge-edition-0.1.1.zip",
       "role": "pack-artifact",
-      "sha256": "b7c92e0d65c0fbb95d76a544bd7722f312b932b70e2073a6f94c15db835a43d3",
-      "size": 112279534
+      "sha256": "97efefa870483eb6d963ceb45dd05d02075b4bd2720e9c3ddd7711640f9717fd",
+      "size": 112279129
     },
     {
       "name": "echoadaptercore-1.0.0-neoforge.jar",
