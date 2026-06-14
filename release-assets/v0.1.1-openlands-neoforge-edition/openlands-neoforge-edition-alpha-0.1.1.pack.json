@@ -1,10 +1,10 @@
 {
   "pack": "openlands-neoforge-edition",
   "name": "Openlands NeoForge Edition",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "channel": "alpha",
   "artifactMode": "zip",
-  "artifactName": "openlands-neoforge-edition-0.1.0.zip",
+  "artifactName": "openlands-neoforge-edition-0.1.1.zip",
   "runtimeTarget": "neoforge",
   "loader": {
     "type": "neoforge",
@@ -91,16 +91,16 @@
     {
       "id": "echocommonloot",
       "moduleId": "echocommonloot",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echocommonloot-0.1.0-neoforge.jar",
-      "artifactName": "echocommonloot-0.1.0-neoforge.jar",
-      "path": "mods/echocommonloot-0.1.0-neoforge.jar",
+      "assetName": "echocommonloot-0.1.1-neoforge.jar",
+      "artifactName": "echocommonloot-0.1.1-neoforge.jar",
+      "path": "mods/echocommonloot-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "15fe151e09ae6bdddcb3ca7ac4ff23c04e9e07962d2e828b1a5e6e126f0df318",
       "size": 7878,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocommonloot-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocommonloot-0.1.1-neoforge.jar"
     },
     {
       "id": "echocontentcore",
@@ -147,16 +147,16 @@
     {
       "id": "echocreatureroles",
       "moduleId": "echocreatureroles",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echocreatureroles-0.1.0-neoforge.jar",
-      "artifactName": "echocreatureroles-0.1.0-neoforge.jar",
-      "path": "mods/echocreatureroles-0.1.0-neoforge.jar",
+      "assetName": "echocreatureroles-0.1.1-neoforge.jar",
+      "artifactName": "echocreatureroles-0.1.1-neoforge.jar",
+      "path": "mods/echocreatureroles-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "ff022b624a67240383beed1b77a770773e3579ae2a58b1b8ba75ed696898048c",
       "size": 7721,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocreatureroles-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocreatureroles-0.1.1-neoforge.jar"
     },
     {
       "id": "echoeconomycore",
@@ -175,16 +175,16 @@
     {
       "id": "echofoundationcore",
       "moduleId": "echofoundationcore",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echofoundationcore-0.1.0-neoforge.jar",
-      "artifactName": "echofoundationcore-0.1.0-neoforge.jar",
-      "path": "mods/echofoundationcore-0.1.0-neoforge.jar",
+      "assetName": "echofoundationcore-0.1.1-neoforge.jar",
+      "artifactName": "echofoundationcore-0.1.1-neoforge.jar",
+      "path": "mods/echofoundationcore-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "3c5dd87ee99c20dc2246763d9075ae18a9777e68484de6f1b71e2336abde6557",
       "size": 11066,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofoundationcore-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofoundationcore-0.1.1-neoforge.jar"
     },
     {
       "id": "echohealthcore",
@@ -210,9 +210,9 @@
       "path": "mods/echoholomap-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "a0e7a2737d28c8b078885b4b0eb1c2e82f643c535d504d239c848d94cfa21129",
-      "size": 1497255,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoholomap-1.0.0-neoforge.jar"
+      "sha256": "e115eb823a6a4a9369df1e7fd9eeeed7d06ad8021bdce01a9955959a24683ca1",
+      "size": 1501534,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoholomap-1.0.0-neoforge.jar"
     },
     {
       "id": "echohudcore",
@@ -238,9 +238,9 @@
       "path": "mods/echoindex-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "72cca14d33a142abddc291cf693ba05908305187327d7a6b8494aebae88b96d0",
-      "size": 587597,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoindex-1.0.0-neoforge.jar"
+      "sha256": "d22dfa9f0d54a5dac438fddaba1012fb6e648c4dd38df373c2cf4106ad04e58d",
+      "size": 591301,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoindex-1.0.0-neoforge.jar"
     },
     {
       "id": "echolens",
@@ -252,9 +252,9 @@
       "path": "mods/echolens-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "31483a00420195d02ea7b464245f8096b0617276ae6996cbb36e7f22e36e8c79",
-      "size": 215808,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echolens-1.0.0-neoforge.jar"
+      "sha256": "218271f915103a3420d75ab87946e9eabf469074ab199038f15b79bf5b62f581",
+      "size": 220027,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echolens-1.0.0-neoforge.jar"
     },
     {
       "id": "echolootcore",
@@ -273,16 +273,16 @@
     {
       "id": "echomaterialcore",
       "moduleId": "echomaterialcore",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echomaterialcore-0.1.0-neoforge.jar",
-      "artifactName": "echomaterialcore-0.1.0-neoforge.jar",
-      "path": "mods/echomaterialcore-0.1.0-neoforge.jar",
+      "assetName": "echomaterialcore-0.1.1-neoforge.jar",
+      "artifactName": "echomaterialcore-0.1.1-neoforge.jar",
+      "path": "mods/echomaterialcore-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "2f5ad71dc91507e89a48310fc4517d90ffd222db834e0c3c0cc0da817b4fa8f7",
       "size": 13328,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomaterialcore-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomaterialcore-0.1.1-neoforge.jar"
     },
     {
       "id": "echomissioncore",
@@ -329,16 +329,16 @@
     {
       "id": "echoopenlandsprotocol",
       "moduleId": "echoopenlandsprotocol",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echoopenlandsprotocol-0.1.0-neoforge.jar",
-      "artifactName": "echoopenlandsprotocol-0.1.0-neoforge.jar",
-      "path": "mods/echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "assetName": "echoopenlandsprotocol-0.1.1-neoforge.jar",
+      "artifactName": "echoopenlandsprotocol-0.1.1-neoforge.jar",
+      "path": "mods/echoopenlandsprotocol-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "1b0766dece736f3fa97368a47f7ff673c724b1bbadc0d6c8a036d3c9cdce7afa",
       "size": 282272,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoopenlandsprotocol-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoopenlandsprotocol-0.1.1-neoforge.jar"
     },
     {
       "id": "echoplatformcore",
@@ -483,16 +483,16 @@
     {
       "id": "echostationcore",
       "moduleId": "echostationcore",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echostationcore-0.1.0-neoforge.jar",
-      "artifactName": "echostationcore-0.1.0-neoforge.jar",
-      "path": "mods/echostationcore-0.1.0-neoforge.jar",
+      "assetName": "echostationcore-0.1.1-neoforge.jar",
+      "artifactName": "echostationcore-0.1.1-neoforge.jar",
+      "path": "mods/echostationcore-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "3114df3c176e65d55a40c5fd129288129b9f029cfa2411d2fd9501fe2356d5f8",
       "size": 9275,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echostationcore-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echostationcore-0.1.1-neoforge.jar"
     },
     {
       "id": "echostructurecore",
@@ -518,9 +518,9 @@
       "path": "mods/echoterminal-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "eeb8cf829fb8a76ccb5381ccbd9731bbac3e02612f734788fc43d8f06cda00fe",
-      "size": 22988524,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoterminal-1.0.0-neoforge.jar"
+      "sha256": "e62f124caba3432e32e2654d9464019668525364d9e014f1b6d4587bb130b848",
+      "size": 23017506,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoterminal-1.0.0-neoforge.jar"
     },
     {
       "id": "echothemecore",
@@ -539,16 +539,16 @@
     {
       "id": "echotoolcore",
       "moduleId": "echotoolcore",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echotoolcore-0.1.0-neoforge.jar",
-      "artifactName": "echotoolcore-0.1.0-neoforge.jar",
-      "path": "mods/echotoolcore-0.1.0-neoforge.jar",
+      "assetName": "echotoolcore-0.1.1-neoforge.jar",
+      "artifactName": "echotoolcore-0.1.1-neoforge.jar",
+      "path": "mods/echotoolcore-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "97284cddc025738d953b57edc4daa2076bfcb5e81bb0e55533eaa42cce166be5",
       "size": 9086,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotoolcore-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotoolcore-0.1.1-neoforge.jar"
     },
     {
       "id": "echotutorialcore",
@@ -588,9 +588,9 @@
       "path": "mods/echoweathercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "2b78412e1020367bc5f88d0ca0f187a3e2b14e673be894d362f0711366f44f36",
-      "size": 244625,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoweathercore-1.0.0-neoforge.jar"
+      "sha256": "bc1fd04b4a2a237761595a6e1554133ccd99143f066a4aab725488b74f99b865",
+      "size": 253320,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoweathercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoworldcore",
@@ -609,16 +609,16 @@
     {
       "id": "echoworldstarter",
       "moduleId": "echoworldstarter",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "artifactFamily": "neoforge",
-      "assetName": "echoworldstarter-0.1.0-neoforge.jar",
-      "artifactName": "echoworldstarter-0.1.0-neoforge.jar",
-      "path": "mods/echoworldstarter-0.1.0-neoforge.jar",
+      "assetName": "echoworldstarter-0.1.1-neoforge.jar",
+      "artifactName": "echoworldstarter-0.1.1-neoforge.jar",
+      "path": "mods/echoworldstarter-0.1.1-neoforge.jar",
       "required": true,
       "side": "both",
       "sha256": "db323686afcb6ed1f1c3d6db93325cac08924aba5609ef86a7c41f488b471d1a",
       "size": 10401,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldstarter-0.1.0-neoforge.jar"
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldstarter-0.1.1-neoforge.jar"
     }
   ],
   "requiredModuleDescriptors": [
@@ -694,15 +694,15 @@
       "artifactName": "echoblockworks-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echocommonloot-0.1.0-neoforge.jar",
-      "assetName": "echocommonloot-0.1.0-neoforge.jar",
+      "path": "mods/echocommonloot-0.1.1-neoforge.jar",
+      "assetName": "echocommonloot-0.1.1-neoforge.jar",
       "sha256": "15fe151e09ae6bdddcb3ca7ac4ff23c04e9e07962d2e828b1a5e6e126f0df318",
       "size": 7878,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocommonloot-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocommonloot-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echocommonloot",
       "side": "both",
-      "artifactName": "echocommonloot-0.1.0-neoforge.jar"
+      "artifactName": "echocommonloot-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echocontentcore-1.0.0-neoforge.jar",
@@ -738,15 +738,15 @@
       "artifactName": "echocreaturecore-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echocreatureroles-0.1.0-neoforge.jar",
-      "assetName": "echocreatureroles-0.1.0-neoforge.jar",
+      "path": "mods/echocreatureroles-0.1.1-neoforge.jar",
+      "assetName": "echocreatureroles-0.1.1-neoforge.jar",
       "sha256": "ff022b624a67240383beed1b77a770773e3579ae2a58b1b8ba75ed696898048c",
       "size": 7721,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocreatureroles-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echocreatureroles-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echocreatureroles",
       "side": "both",
-      "artifactName": "echocreatureroles-0.1.0-neoforge.jar"
+      "artifactName": "echocreatureroles-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echoeconomycore-1.0.0-neoforge.jar",
@@ -760,15 +760,15 @@
       "artifactName": "echoeconomycore-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echofoundationcore-0.1.0-neoforge.jar",
-      "assetName": "echofoundationcore-0.1.0-neoforge.jar",
+      "path": "mods/echofoundationcore-0.1.1-neoforge.jar",
+      "assetName": "echofoundationcore-0.1.1-neoforge.jar",
       "sha256": "3c5dd87ee99c20dc2246763d9075ae18a9777e68484de6f1b71e2336abde6557",
       "size": 11066,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofoundationcore-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echofoundationcore-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echofoundationcore",
       "side": "both",
-      "artifactName": "echofoundationcore-0.1.0-neoforge.jar"
+      "artifactName": "echofoundationcore-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echohealthcore-1.0.0-neoforge.jar",
@@ -837,15 +837,15 @@
       "artifactName": "echolootcore-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echomaterialcore-0.1.0-neoforge.jar",
-      "assetName": "echomaterialcore-0.1.0-neoforge.jar",
+      "path": "mods/echomaterialcore-0.1.1-neoforge.jar",
+      "assetName": "echomaterialcore-0.1.1-neoforge.jar",
       "sha256": "2f5ad71dc91507e89a48310fc4517d90ffd222db834e0c3c0cc0da817b4fa8f7",
       "size": 13328,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomaterialcore-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echomaterialcore-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echomaterialcore",
       "side": "both",
-      "artifactName": "echomaterialcore-0.1.0-neoforge.jar"
+      "artifactName": "echomaterialcore-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echomissioncore-1.0.0-neoforge.jar",
@@ -881,15 +881,15 @@
       "artifactName": "echonpcore-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echoopenlandsprotocol-0.1.0-neoforge.jar",
-      "assetName": "echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "path": "mods/echoopenlandsprotocol-0.1.1-neoforge.jar",
+      "assetName": "echoopenlandsprotocol-0.1.1-neoforge.jar",
       "sha256": "1b0766dece736f3fa97368a47f7ff673c724b1bbadc0d6c8a036d3c9cdce7afa",
       "size": 282272,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoopenlandsprotocol-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echoopenlandsprotocol",
       "side": "both",
-      "artifactName": "echoopenlandsprotocol-0.1.0-neoforge.jar"
+      "artifactName": "echoopenlandsprotocol-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echoplatformcore-1.0.0-neoforge.jar",
@@ -1002,15 +1002,15 @@
       "artifactName": "echosoundcore-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echostationcore-0.1.0-neoforge.jar",
-      "assetName": "echostationcore-0.1.0-neoforge.jar",
+      "path": "mods/echostationcore-0.1.1-neoforge.jar",
+      "assetName": "echostationcore-0.1.1-neoforge.jar",
       "sha256": "3114df3c176e65d55a40c5fd129288129b9f029cfa2411d2fd9501fe2356d5f8",
       "size": 9275,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echostationcore-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echostationcore-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echostationcore",
       "side": "both",
-      "artifactName": "echostationcore-0.1.0-neoforge.jar"
+      "artifactName": "echostationcore-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echostructurecore-1.0.0-neoforge.jar",
@@ -1046,15 +1046,15 @@
       "artifactName": "echothemecore-1.3.0-neoforge.jar"
     },
     {
-      "path": "mods/echotoolcore-0.1.0-neoforge.jar",
-      "assetName": "echotoolcore-0.1.0-neoforge.jar",
+      "path": "mods/echotoolcore-0.1.1-neoforge.jar",
+      "assetName": "echotoolcore-0.1.1-neoforge.jar",
       "sha256": "97284cddc025738d953b57edc4daa2076bfcb5e81bb0e55533eaa42cce166be5",
       "size": 9086,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotoolcore-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echotoolcore-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echotoolcore",
       "side": "both",
-      "artifactName": "echotoolcore-0.1.0-neoforge.jar"
+      "artifactName": "echotoolcore-0.1.1-neoforge.jar"
     },
     {
       "path": "mods/echotutorialcore-1.0.0-neoforge.jar",
@@ -1101,15 +1101,15 @@
       "artifactName": "echoworldcore-1.0.0-neoforge.jar"
     },
     {
-      "path": "mods/echoworldstarter-0.1.0-neoforge.jar",
-      "assetName": "echoworldstarter-0.1.0-neoforge.jar",
+      "path": "mods/echoworldstarter-0.1.1-neoforge.jar",
+      "assetName": "echoworldstarter-0.1.1-neoforge.jar",
       "sha256": "db323686afcb6ed1f1c3d6db93325cac08924aba5609ef86a7c41f488b471d1a",
       "size": 10401,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldstarter-0.1.0-neoforge.jar",
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-all-official-modpacks-runtime-fix-20260614/echoworldstarter-0.1.1-neoforge.jar",
       "required": true,
       "moduleId": "echoworldstarter",
       "side": "both",
-      "artifactName": "echoworldstarter-0.1.0-neoforge.jar"
+      "artifactName": "echoworldstarter-0.1.1-neoforge.jar"
     }
   ],
   "modules": [
@@ -1173,10 +1173,10 @@
       "legal_content_audit_missing"
     ]
   },
-  "artifactSha256": "f74bc6594ccc4102fc8e2155d7358600e870e80c8fea597c61f413b95cbef11b",
-  "artifactSize": 112272094,
-  "releaseTag": "v0.1.0-openlands-neoforge-edition",
-  "releaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
+  "artifactSha256": "",
+  "artifactSize": 0,
+  "releaseTag": "v0.1.1-openlands-neoforge-edition",
+  "releaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.1-openlands-neoforge-edition",
   "minecraft": "26.1.2",
   "minecraftVersion": "26.1.2",
   "runtime": {
@@ -1190,11 +1190,11 @@
     "jvmArgs": []
   },
   "id": "openlands-neoforge-edition",
-  "artifactUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/download/v0.1.0-openlands-neoforge-edition/openlands-neoforge-edition-0.1.0.zip",
+  "artifactUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/download/v0.1.1-openlands-neoforge-edition/openlands-neoforge-edition-0.1.1.zip",
   "updatedAt": "2026-06-14T00:31:21.391Z",
   "generatedBy": "scripts/rebuild-official-modpack-assets",
   "validation": "approved",
-  "manifestAsset": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
+  "manifestAsset": "openlands-neoforge-edition-alpha-0.1.1.pack.json",
   "moduleRelease": "modules-all-official-modpacks-runtime-fix-20260614",
   "moduleSourceRevision": "0beb164098526cf791cc6c649704e6a434769a17"
 }
