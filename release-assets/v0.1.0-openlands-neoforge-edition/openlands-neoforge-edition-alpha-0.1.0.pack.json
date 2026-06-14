@@ -1173,8 +1173,8 @@
       "legal_content_audit_missing"
     ]
   },
-  "artifactSha256": "1a63e5040d9551d14a4c5d1af10d09ea58f98a93b624b69fc4623d361308e206",
-  "artifactSize": 113967863,
+  "artifactSha256": "f74bc6594ccc4102fc8e2155d7358600e870e80c8fea597c61f413b95cbef11b",
+  "artifactSize": 112272094,
   "releaseTag": "v0.1.0-openlands-neoforge-edition",
   "releaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.0-openlands-neoforge-edition",
   "minecraft": "26.1.2",
