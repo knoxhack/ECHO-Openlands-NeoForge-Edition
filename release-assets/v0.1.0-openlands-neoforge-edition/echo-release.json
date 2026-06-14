@@ -4,13 +4,15 @@
   "name": "Openlands NeoForge Edition",
   "version": "0.1.0",
   "channel": "alpha",
-  "releasedAt": "2026-06-13T07:14:52.103Z",
+  "releasedAt": "2026-06-14T00:31:21.396Z",
   "manifestAsset": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
-  "manifestSha256": "7a2e90f354eccad8b4017560dd291f0101351f991c522d3d85de46609313fa7e",
+  "manifestSha256": "6418842af14ca729550a474e4e6907c312c5322bb025b9c86f426bf7a35f7a9a",
+  "manifestSize": 53049,
   "artifactMode": "zip",
   "artifactAsset": "openlands-neoforge-edition-0.1.0.zip",
-  "artifactSha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
-  "artifactSize": 211752,
+  "artifactSha256": "726dbecd13a1a1314bd19967eb9552dc43fcc9267d370949b395a843b8875fae",
+  "artifactSize": 8292,
+  "moduleRelease": "modules-all-official-modpacks-install-fix-20260613",
   "packs": [
     {
       "pack": "openlands-neoforge-edition",
@@ -25,30 +27,18 @@
     {
       "name": "openlands-neoforge-edition-alpha-0.1.0.pack.json",
       "role": "pack-manifest",
-      "sha256": "7a2e90f354eccad8b4017560dd291f0101351f991c522d3d85de46609313fa7e",
-      "size": 19599
+      "sha256": "6418842af14ca729550a474e4e6907c312c5322bb025b9c86f426bf7a35f7a9a",
+      "size": 53049
     },
     {
       "name": "openlands-neoforge-edition-0.1.0.zip",
       "role": "pack-artifact",
-      "sha256": "7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db",
-      "size": 211752
-    },
-    {
-      "name": "echoopenlandsprotocol-0.1.0-neoforge.jar",
-      "role": "pack-file",
-      "path": "mods/echoopenlandsprotocol-0.1.0-neoforge.jar",
-      "sha256": "6670f8c7c9eaf66ba15fa479e9bfcaa094b92f89847b1d05dbfcdc87ab41f886",
-      "size": 289541
+      "sha256": "726dbecd13a1a1314bd19967eb9552dc43fcc9267d370949b395a843b8875fae",
+      "size": 8292
     }
   ],
-  "releaseGate": {
-    "status": "warning",
-    "publicAlphaReady": false,
-    "reason": "Published as a prerelease handoff. Do not promote to approved until Openlands readiness blockers clear."
-  },
   "notes": [
-    "Openlands NeoForge Edition prerelease assembled from the compiled echoopenlandsprotocol NeoForge artifact.",
-    "This is a checksum-backed prerelease handoff. Keep public-alpha validation in warning until the remaining launcher, playtest, save/load, and legal gates pass."
+    "Rebuilt openlands-neoforge-edition against approved module release modules-all-official-modpacks-install-fix-20260613.",
+    "Manifest files contain GitHub HTTPS URLs for every module artifact used by install, repair, and update."
   ]
 }

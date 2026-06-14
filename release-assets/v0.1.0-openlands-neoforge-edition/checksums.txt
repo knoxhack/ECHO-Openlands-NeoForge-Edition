@@ -1,3 +1,3 @@
-7062dce7e417c9a9724bf4f042d801eca5877a6db301c8a662a1feeeb187f8db  openlands-neoforge-edition-0.1.0.zip
-7a2e90f354eccad8b4017560dd291f0101351f991c522d3d85de46609313fa7e  openlands-neoforge-edition-alpha-0.1.0.pack.json
-5bc78bf5e00723bf52e37c491a141e9fc422a535fbe2f12258c87d6f0ce09bec  echo-release.json
+6418842af14ca729550a474e4e6907c312c5322bb025b9c86f426bf7a35f7a9a  openlands-neoforge-edition-alpha-0.1.0.pack.json
+726dbecd13a1a1314bd19967eb9552dc43fcc9267d370949b395a843b8875fae  openlands-neoforge-edition-0.1.0.zip
+31492c6edce301d541f01e50db6d832fbdc3098f4d52148997526d835370628a  echo-release.json
