@@ -1,3 +1,3 @@
-c1834185806f2913cac7761330dd33fb491700b340408e7efc619b6bca3733bf  echo-release.json
+d516f4465b58a6e6e0d915a866bf67e7a000dc266db6631f33ce4d21cf39b9e8  echo-release.json
 97efefa870483eb6d963ceb45dd05d02075b4bd2720e9c3ddd7711640f9717fd  openlands-neoforge-edition-0.1.1.zip
 2971c9c8cc0c235737ad846a42d7355be334709864def5b8c011f9577cab8000  openlands-neoforge-edition-alpha-0.1.1.pack.json
