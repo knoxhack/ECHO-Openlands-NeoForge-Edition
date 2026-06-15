@@ -42,9 +42,9 @@
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "6a29432aaa9156e5af0da5592ef02c79eca948ca6d1678c6a38fb8f52b369445",
-      "size": 949214,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoadaptercore-1.0.0-neoforge.jar"
+      "sha256": "6e3843a1e05752454839298b763a1db05ae542532fe87a5d11118ea7908e99cf",
+      "size": 957548,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoadaptercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoassetcore",
@@ -56,9 +56,9 @@
       "path": "mods/echoassetcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "fac1ffefb75b351943020b1640bce82986fe96650b832ad5243e5b5a78d5eb17",
-      "size": 45334,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoassetcore-1.0.0-neoforge.jar"
+      "sha256": "e03b52b31f32ac0286ca93c30f226008449d36811fe83799b385e3bdf5d7296a",
+      "size": 50839,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoassetcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echobiomecore",
@@ -70,9 +70,9 @@
       "path": "mods/echobiomecore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "0b8346f4fa6589c54462c61eddae836b29f547da0f79a476236f47b17c18b4f2",
-      "size": 23399,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echobiomecore-1.0.0-neoforge.jar"
+      "sha256": "2f82a6bf57a195e1a019ad0bbf805ab4d17d83972f785ebeb641e11b8d1d1a4f",
+      "size": 28653,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echobiomecore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoblockworks",
@@ -84,9 +84,9 @@
       "path": "mods/echoblockworks-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "560b65d2ccd07ebd9f1a97c2c14c09934d69eb7fe379a717a05bc66fb45a5212",
-      "size": 1302438,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoblockworks-1.0.0-neoforge.jar"
+      "sha256": "834bb5e32218cc045feb45f6241d92facba54a4fb41181845294ad1606267c25",
+      "size": 1344987,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoblockworks-1.0.0-neoforge.jar"
     },
     {
       "id": "echocommonloot",
@@ -98,9 +98,9 @@
       "path": "mods/echocommonloot-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "15fe151e09ae6bdddcb3ca7ac4ff23c04e9e07962d2e828b1a5e6e126f0df318",
-      "size": 7878,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocommonloot-0.1.0-neoforge.jar"
+      "sha256": "82fc1cbb444419214b45ab6b1879cbc7b1d35b81de472af079a3b6a708bd0b94",
+      "size": 13450,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocommonloot-0.1.0-neoforge.jar"
     },
     {
       "id": "echocontentcore",
@@ -112,9 +112,9 @@
       "path": "mods/echocontentcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "cc28f3b120db7ce6954a26a7224327e761a57d366667e72f872f75472ec5b635",
-      "size": 33343,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocontentcore-1.0.0-neoforge.jar"
+      "sha256": "4641c1eca5c096d5d897899829b9d857ae4bc635bf9c473ec963b2fda89ea50d",
+      "size": 38593,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocontentcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echocore",
@@ -126,9 +126,9 @@
       "path": "mods/echocore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "2b8fcbaba8299922eddc8f775b4122ddcf15579fcdcacd320ac194850d7516f0",
-      "size": 372220,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocore-1.0.0-neoforge.jar"
+      "sha256": "1a9d4cd0c4a156f45141e01a0d77f2b4845b00f6d0f66c6e3a1310ae9e02fb27",
+      "size": 377909,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocore-1.0.0-neoforge.jar"
     },
     {
       "id": "echocreaturecore",
@@ -140,9 +140,9 @@
       "path": "mods/echocreaturecore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "493cde80f9770dd452dc26666d86e80222ef528fcb5acc85061c6673aae22cc5",
-      "size": 21128,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocreaturecore-1.0.0-neoforge.jar"
+      "sha256": "c1cf879bfefea12349f6ab6c34184ccde1adf3eee1b3a08cc3568218580a2bb5",
+      "size": 26370,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocreaturecore-1.0.0-neoforge.jar"
     },
     {
       "id": "echocreatureroles",
@@ -154,9 +154,9 @@
       "path": "mods/echocreatureroles-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "ff022b624a67240383beed1b77a770773e3579ae2a58b1b8ba75ed696898048c",
-      "size": 7721,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocreatureroles-0.1.0-neoforge.jar"
+      "sha256": "2adecf03e8e7170c0940d9b2e73a45f6db77929e9d93e83fa8991e02039cd781",
+      "size": 13212,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocreatureroles-0.1.0-neoforge.jar"
     },
     {
       "id": "echoeconomycore",
@@ -168,9 +168,9 @@
       "path": "mods/echoeconomycore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "29e774f6c9c6ac4a4dcfb9f32feb9da9a6f2e17157397bef96b52c5b304ad7a6",
-      "size": 29050,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoeconomycore-1.0.0-neoforge.jar"
+      "sha256": "42929c1ee4f52b00247076e664657b35e048d8633785f41360ed03755851673f",
+      "size": 34367,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoeconomycore-1.0.0-neoforge.jar"
     },
     {
       "id": "echofoundationcore",
@@ -182,9 +182,9 @@
       "path": "mods/echofoundationcore-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "3c5dd87ee99c20dc2246763d9075ae18a9777e68484de6f1b71e2336abde6557",
-      "size": 11066,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echofoundationcore-0.1.0-neoforge.jar"
+      "sha256": "0e5ef37b1a014eca0cd02d4559a419ab6da5d45d52a96b78ad71aabce1cc6676",
+      "size": 16691,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echofoundationcore-0.1.0-neoforge.jar"
     },
     {
       "id": "echohealthcore",
@@ -196,9 +196,9 @@
       "path": "mods/echohealthcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "58069013f9beaf183fa53952d15633e12e87960d41790cb2640aa0463e5a34b1",
-      "size": 42600,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echohealthcore-1.0.0-neoforge.jar"
+      "sha256": "b2eda5265de4a9851d959b3c596ad70536089ad082171bde801613afb267f7ef",
+      "size": 47636,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echohealthcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoholomap",
@@ -210,9 +210,9 @@
       "path": "mods/echoholomap-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "e115eb823a6a4a9369df1e7fd9eeeed7d06ad8021bdce01a9955959a24683ca1",
-      "size": 1501534,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoholomap-1.0.0-neoforge.jar"
+      "sha256": "a03851b377b123cd249bc0ed4027d0d0903d5d7ef89b144d9fc63a77889e515d",
+      "size": 1502499,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoholomap-1.0.0-neoforge.jar"
     },
     {
       "id": "echohudcore",
@@ -224,9 +224,9 @@
       "path": "mods/echohudcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "e89d9c6d5b623d79af7acf0e269e370886323eac3970bef90e1b5e8d56d586c4",
-      "size": 46674,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echohudcore-1.0.0-neoforge.jar"
+      "sha256": "5089ed8668b09fc1b782061184e35a51bc86615df0bcc1c69347f72e2b965f1a",
+      "size": 52011,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echohudcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoindex",
@@ -238,9 +238,9 @@
       "path": "mods/echoindex-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "d22dfa9f0d54a5dac438fddaba1012fb6e648c4dd38df373c2cf4106ad04e58d",
-      "size": 591301,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoindex-1.0.0-neoforge.jar"
+      "sha256": "3f74d457b0cb51384642579ea4652c0641c517014de4913e668896c41a28e2b9",
+      "size": 595044,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoindex-1.0.0-neoforge.jar"
     },
     {
       "id": "echolens",
@@ -252,9 +252,9 @@
       "path": "mods/echolens-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "218271f915103a3420d75ab87946e9eabf469074ab199038f15b79bf5b62f581",
-      "size": 220027,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echolens-1.0.0-neoforge.jar"
+      "sha256": "7a9c1572ac5888a043367124d12771b095c6bf2aeef98fe32863cf423d1ec404",
+      "size": 221150,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echolens-1.0.0-neoforge.jar"
     },
     {
       "id": "echolootcore",
@@ -266,9 +266,9 @@
       "path": "mods/echolootcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "89a29a2bd744c35f3c1fd01b03605c921c067f212ef9a1c126e7a2325217b62f",
-      "size": 24204,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echolootcore-1.0.0-neoforge.jar"
+      "sha256": "57a9279a034e442003198abd19b775fb562570dd28cc71f879470f5a3f034dfc",
+      "size": 29261,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echolootcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echomaterialcore",
@@ -280,9 +280,9 @@
       "path": "mods/echomaterialcore-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "2f5ad71dc91507e89a48310fc4517d90ffd222db834e0c3c0cc0da817b4fa8f7",
-      "size": 13328,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echomaterialcore-0.1.0-neoforge.jar"
+      "sha256": "258f234b4d7f946089dbd9e97b178a480c6f01f8175da2b373d15c1a5c20a2c3",
+      "size": 27835,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echomaterialcore-0.1.0-neoforge.jar"
     },
     {
       "id": "echomissioncore",
@@ -294,9 +294,9 @@
       "path": "mods/echomissioncore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "ff4e185f72a13f4cf050d643814d518ba22f45930c391265382528345887c8a9",
-      "size": 104566,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echomissioncore-1.0.0-neoforge.jar"
+      "sha256": "782e03be18781d2a61854358cd7b76f9dc6161c7b3aa44d8c1462bc3cf3d2c04",
+      "size": 109697,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echomissioncore-1.0.0-neoforge.jar"
     },
     {
       "id": "echonetcore",
@@ -308,9 +308,9 @@
       "path": "mods/echonetcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "321506da12d55b0e60e548083266e1a2e6ba4812f3c79766c81d3e2e2faf35eb",
-      "size": 68950,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echonetcore-1.0.0-neoforge.jar"
+      "sha256": "08b092f4af0efb5ed10c189c22f86e2ed0d9552bd1aa506fe4a33a8e172bde22",
+      "size": 73882,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echonetcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echonpcore",
@@ -322,9 +322,9 @@
       "path": "mods/echonpcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "acc8241bc9796a73fcc387369eb52d62563ed41dfcb716d4f692f9068ca8c1d6",
-      "size": 312872,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echonpcore-1.0.0-neoforge.jar"
+      "sha256": "b174090896b55615b464b40ad6c230e4b56b782d56aed5f3571c5fed2a743deb",
+      "size": 318944,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echonpcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoopenlandsprotocol",
@@ -336,9 +336,9 @@
       "path": "mods/echoopenlandsprotocol-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "1b0766dece736f3fa97368a47f7ff673c724b1bbadc0d6c8a036d3c9cdce7afa",
-      "size": 282272,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoopenlandsprotocol-0.1.0-neoforge.jar"
+      "sha256": "1f2557b4cda496484a8b214fb1204354c7c8a7dd114a080fbc1dff0cc60e5b28",
+      "size": 304058,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoopenlandsprotocol-0.1.0-neoforge.jar"
     },
     {
       "id": "echoplatformcore",
@@ -350,9 +350,9 @@
       "path": "mods/echoplatformcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "8f31958612cf1263f08873849b4eea8b8facea196bc501d7bf5e417e33a5b3b3",
-      "size": 46708,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoplatformcore-1.0.0-neoforge.jar"
+      "sha256": "8b4a2f31d63da0c0888c08c19d538c13d921ccd5425da5b985fcd55ec7adc0d3",
+      "size": 51598,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoplatformcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoplayercore",
@@ -364,9 +364,9 @@
       "path": "mods/echoplayercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "aaf7952a10a910d30e1ef9d0610bc76a07ccf09f29f88e0628214b4946e257da",
-      "size": 69405,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoplayercore-1.0.0-neoforge.jar"
+      "sha256": "a26743356978ec42ae7bca46acb9aab3944c780e6653b3436b722d8aa180f980",
+      "size": 75020,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoplayercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoprogressioncore",
@@ -378,9 +378,9 @@
       "path": "mods/echoprogressioncore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "c703f3399a18422b9fc71fbdb026e4948ca77ffc47d1adff348148c5095c3e9a",
-      "size": 46455,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoprogressioncore-1.0.0-neoforge.jar"
+      "sha256": "a941008c94651a90c81620256ab6ebbcf2ff67493224de5c2918334c9b6e6f3d",
+      "size": 52024,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoprogressioncore-1.0.0-neoforge.jar"
     },
     {
       "id": "echorecipecore",
@@ -392,9 +392,9 @@
       "path": "mods/echorecipecore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "88c6f5da4ba47dd3d593b5a3770523628942528e2a851910d651b3d77c59b41b",
-      "size": 37987,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echorecipecore-1.0.0-neoforge.jar"
+      "sha256": "41c5ac3cd99bfcfae69d57f8b98531dc1c714a56f22abcc57351c1e599802e02",
+      "size": 43167,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echorecipecore-1.0.0-neoforge.jar"
     },
     {
       "id": "echorecovery",
@@ -406,9 +406,9 @@
       "path": "mods/echorecovery-1.3.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "a723a45e1271176ff8553318dcaa4808a102db37dd8ab7d85ae9d56c97ee0773",
-      "size": 2687852,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echorecovery-1.3.0-neoforge.jar"
+      "sha256": "747f71bbe6c3b35fd3738ad6aa8f1fe0018f0b47f23b669bac818a56841c83fd",
+      "size": 2694979,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echorecovery-1.3.0-neoforge.jar"
     },
     {
       "id": "echoruntimeguard",
@@ -420,9 +420,9 @@
       "path": "mods/echoruntimeguard-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "a080b3b018be1e50c6d6880bafc1dccddf204a76bf48546c32ab4f925650126e",
-      "size": 127749,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoruntimeguard-1.0.0-neoforge.jar"
+      "sha256": "d639cc2b798cd6369989e67cbd76e406980aeae8e47ecdc8697682746b8fd056",
+      "size": 133530,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoruntimeguard-1.0.0-neoforge.jar"
     },
     {
       "id": "echoschemacore",
@@ -434,9 +434,9 @@
       "path": "mods/echoschemacore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "ab62772a498d6b362d3af909624eac0aa7c01556c6d1e3260f9f5eda1fe141d2",
-      "size": 30784,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoschemacore-1.0.0-neoforge.jar"
+      "sha256": "3fd00375fcbb49ab714d2a733340b63e420329331d57db1f2e73a983dc084410",
+      "size": 35669,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoschemacore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoscreencore",
@@ -448,9 +448,9 @@
       "path": "mods/echoscreencore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "93be1132656eb1350f8d9a2d0afd7c5864c3067c3bf9b15035e2061765118142",
-      "size": 392527,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoscreencore-1.0.0-neoforge.jar"
+      "sha256": "972cb77f6c9ac9401a99897bcce503f3516b50863954888e6d9d2521b4321c22",
+      "size": 398395,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoscreencore-1.0.0-neoforge.jar"
     },
     {
       "id": "echosocialcore",
@@ -462,9 +462,9 @@
       "path": "mods/echosocialcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "d38f5645dbfc4c7f59c7095c0c19120d3a2852d594b61b70cd774adcd002677d",
-      "size": 57175,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echosocialcore-1.0.0-neoforge.jar"
+      "sha256": "f8f4bb42e2db29710ba9185f55b4c77eeb0461a3a4ed2e99ac6c46dc7293aa19",
+      "size": 62525,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echosocialcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echosoundcore",
@@ -476,9 +476,9 @@
       "path": "mods/echosoundcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "6d7b18b6120e068536a50a37601d19ed0f03f543f7f3c2b679fc2f8f3e671631",
-      "size": 11079915,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echosoundcore-1.0.0-neoforge.jar"
+      "sha256": "c3fb3f3249e7f56a1f6c3b1e481b0b0ae50158c267d84c53a90e51b8b0c5332b",
+      "size": 11085994,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echosoundcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echostationcore",
@@ -490,9 +490,9 @@
       "path": "mods/echostationcore-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "3114df3c176e65d55a40c5fd129288129b9f029cfa2411d2fd9501fe2356d5f8",
-      "size": 9275,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echostationcore-0.1.0-neoforge.jar"
+      "sha256": "e2bad635f969f70082e3656d9d573760bcf31de03a5a2e0deb8512b87049e6db",
+      "size": 17217,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echostationcore-0.1.0-neoforge.jar"
     },
     {
       "id": "echostructurecore",
@@ -504,9 +504,9 @@
       "path": "mods/echostructurecore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "d50398bf69a6fd2f5a2e2dc95cc62c6387ee13cbb0f9d50d4bbf7bd1d9fcb40f",
-      "size": 29037,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echostructurecore-1.0.0-neoforge.jar"
+      "sha256": "819d9325ee465d8b42a09e645a28c0c89b48ae8a8988d36982ccb898ebd0a974",
+      "size": 34363,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echostructurecore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoterminal",
@@ -518,9 +518,9 @@
       "path": "mods/echoterminal-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "e62f124caba3432e32e2654d9464019668525364d9e014f1b6d4587bb130b848",
-      "size": 23017506,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoterminal-1.0.0-neoforge.jar"
+      "sha256": "ea6aaa408788d22f1e1341f94d3470edefd995c2e9fc8b36cc455cd21e7a11f6",
+      "size": 22996376,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoterminal-1.0.0-neoforge.jar"
     },
     {
       "id": "echothemecore",
@@ -532,9 +532,9 @@
       "path": "mods/echothemecore-1.3.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "3ced2b8e08ddeddd9078a270c506cc289fd6a448ddf27eff16d197203516a86c",
-      "size": 69621173,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echothemecore-1.3.0-neoforge.jar"
+      "sha256": "7ac0576634cc7db4c736ea9b0fe56144b71d9957e87a857f77f0f471dfdec8a9",
+      "size": 69627526,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echothemecore-1.3.0-neoforge.jar"
     },
     {
       "id": "echotoolcore",
@@ -546,9 +546,9 @@
       "path": "mods/echotoolcore-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "97284cddc025738d953b57edc4daa2076bfcb5e81bb0e55533eaa42cce166be5",
-      "size": 9086,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echotoolcore-0.1.0-neoforge.jar"
+      "sha256": "06c56ca2066a8eba2ae898b2a8cf8662d71bd411b29bcea788f9cb7acb078ad0",
+      "size": 16695,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echotoolcore-0.1.0-neoforge.jar"
     },
     {
       "id": "echotutorialcore",
@@ -560,9 +560,9 @@
       "path": "mods/echotutorialcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "d502b2a4e52dfdadd9b274b0a4d3540f45ab28391f4a25d7ccbc7a8ee5e69ec6",
-      "size": 215230,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echotutorialcore-1.0.0-neoforge.jar"
+      "sha256": "d7cc3706f139980fbb85a694d63765a69a997991e75f875026e00ae983524685",
+      "size": 220748,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echotutorialcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echovalidationcore",
@@ -574,9 +574,9 @@
       "path": "mods/echovalidationcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "4bd332ffd2753b3bdb2464a7d475085c1a8c5dc13f74db7ad2cc75b7c916ec2e",
-      "size": 42072,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echovalidationcore-1.0.0-neoforge.jar"
+      "sha256": "cb4cbde2b3c65acfe2dfa75d45eef3d3fc47cf926b85e2cc67d3bdd6403d8444",
+      "size": 47124,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echovalidationcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoweathercore",
@@ -588,9 +588,9 @@
       "path": "mods/echoweathercore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "bc1fd04b4a2a237761595a6e1554133ccd99143f066a4aab725488b74f99b865",
-      "size": 253320,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoweathercore-1.0.0-neoforge.jar"
+      "sha256": "4d72914627872021cef9b0101e8caf8d9bd7965e338d4e22064490409f3e030e",
+      "size": 257550,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoweathercore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoworldcore",
@@ -602,9 +602,9 @@
       "path": "mods/echoworldcore-1.0.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "a79ce80de4bf8eb0f246e826caa9e7edf0dcd0e0d3046c8031d429abcf42963f",
-      "size": 178005,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoworldcore-1.0.0-neoforge.jar"
+      "sha256": "3242f1974e1234e744bd4df30c5654a57f1e4648ad71449c518ee0d63db9259c",
+      "size": 183149,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoworldcore-1.0.0-neoforge.jar"
     },
     {
       "id": "echoworldstarter",
@@ -616,9 +616,9 @@
       "path": "mods/echoworldstarter-0.1.0-neoforge.jar",
       "required": true,
       "side": "both",
-      "sha256": "db323686afcb6ed1f1c3d6db93325cac08924aba5609ef86a7c41f488b471d1a",
-      "size": 10401,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoworldstarter-0.1.0-neoforge.jar"
+      "sha256": "9d756323c91a2a2902e84f7a6095c19ab47b02cc2682d0eb5b525e647207ccd5",
+      "size": 17966,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoworldstarter-0.1.0-neoforge.jar"
     }
   ],
   "requiredModuleDescriptors": [
@@ -652,464 +652,548 @@
     {
       "path": "mods/echoadaptercore-1.0.0-neoforge.jar",
       "assetName": "echoadaptercore-1.0.0-neoforge.jar",
-      "sha256": "6a29432aaa9156e5af0da5592ef02c79eca948ca6d1678c6a38fb8f52b369445",
-      "size": 949214,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoadaptercore-1.0.0-neoforge.jar",
+      "sha256": "6e3843a1e05752454839298b763a1db05ae542532fe87a5d11118ea7908e99cf",
+      "size": 957548,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoadaptercore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoadaptercore",
       "side": "both",
-      "artifactName": "echoadaptercore-1.0.0-neoforge.jar"
+      "artifactName": "echoadaptercore-1.0.0-neoforge.jar",
+      "id": "echoadaptercore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoassetcore-1.0.0-neoforge.jar",
       "assetName": "echoassetcore-1.0.0-neoforge.jar",
-      "sha256": "fac1ffefb75b351943020b1640bce82986fe96650b832ad5243e5b5a78d5eb17",
-      "size": 45334,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoassetcore-1.0.0-neoforge.jar",
+      "sha256": "e03b52b31f32ac0286ca93c30f226008449d36811fe83799b385e3bdf5d7296a",
+      "size": 50839,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoassetcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoassetcore",
       "side": "both",
-      "artifactName": "echoassetcore-1.0.0-neoforge.jar"
+      "artifactName": "echoassetcore-1.0.0-neoforge.jar",
+      "id": "echoassetcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echobiomecore-1.0.0-neoforge.jar",
       "assetName": "echobiomecore-1.0.0-neoforge.jar",
-      "sha256": "0b8346f4fa6589c54462c61eddae836b29f547da0f79a476236f47b17c18b4f2",
-      "size": 23399,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echobiomecore-1.0.0-neoforge.jar",
+      "sha256": "2f82a6bf57a195e1a019ad0bbf805ab4d17d83972f785ebeb641e11b8d1d1a4f",
+      "size": 28653,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echobiomecore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echobiomecore",
       "side": "both",
-      "artifactName": "echobiomecore-1.0.0-neoforge.jar"
+      "artifactName": "echobiomecore-1.0.0-neoforge.jar",
+      "id": "echobiomecore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoblockworks-1.0.0-neoforge.jar",
       "assetName": "echoblockworks-1.0.0-neoforge.jar",
-      "sha256": "560b65d2ccd07ebd9f1a97c2c14c09934d69eb7fe379a717a05bc66fb45a5212",
-      "size": 1302438,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoblockworks-1.0.0-neoforge.jar",
+      "sha256": "834bb5e32218cc045feb45f6241d92facba54a4fb41181845294ad1606267c25",
+      "size": 1344987,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoblockworks-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoblockworks",
       "side": "both",
-      "artifactName": "echoblockworks-1.0.0-neoforge.jar"
+      "artifactName": "echoblockworks-1.0.0-neoforge.jar",
+      "id": "echoblockworks",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echocommonloot-0.1.0-neoforge.jar",
       "assetName": "echocommonloot-0.1.0-neoforge.jar",
-      "sha256": "15fe151e09ae6bdddcb3ca7ac4ff23c04e9e07962d2e828b1a5e6e126f0df318",
-      "size": 7878,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocommonloot-0.1.0-neoforge.jar",
+      "sha256": "82fc1cbb444419214b45ab6b1879cbc7b1d35b81de472af079a3b6a708bd0b94",
+      "size": 13450,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocommonloot-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echocommonloot",
       "side": "both",
-      "artifactName": "echocommonloot-0.1.0-neoforge.jar"
+      "artifactName": "echocommonloot-0.1.0-neoforge.jar",
+      "id": "echocommonloot",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echocontentcore-1.0.0-neoforge.jar",
       "assetName": "echocontentcore-1.0.0-neoforge.jar",
-      "sha256": "cc28f3b120db7ce6954a26a7224327e761a57d366667e72f872f75472ec5b635",
-      "size": 33343,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocontentcore-1.0.0-neoforge.jar",
+      "sha256": "4641c1eca5c096d5d897899829b9d857ae4bc635bf9c473ec963b2fda89ea50d",
+      "size": 38593,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocontentcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echocontentcore",
       "side": "both",
-      "artifactName": "echocontentcore-1.0.0-neoforge.jar"
+      "artifactName": "echocontentcore-1.0.0-neoforge.jar",
+      "id": "echocontentcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echocore-1.0.0-neoforge.jar",
       "assetName": "echocore-1.0.0-neoforge.jar",
-      "sha256": "2b8fcbaba8299922eddc8f775b4122ddcf15579fcdcacd320ac194850d7516f0",
-      "size": 372220,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocore-1.0.0-neoforge.jar",
+      "sha256": "1a9d4cd0c4a156f45141e01a0d77f2b4845b00f6d0f66c6e3a1310ae9e02fb27",
+      "size": 377909,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echocore",
       "side": "both",
-      "artifactName": "echocore-1.0.0-neoforge.jar"
+      "artifactName": "echocore-1.0.0-neoforge.jar",
+      "id": "echocore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echocreaturecore-1.0.0-neoforge.jar",
       "assetName": "echocreaturecore-1.0.0-neoforge.jar",
-      "sha256": "493cde80f9770dd452dc26666d86e80222ef528fcb5acc85061c6673aae22cc5",
-      "size": 21128,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocreaturecore-1.0.0-neoforge.jar",
+      "sha256": "c1cf879bfefea12349f6ab6c34184ccde1adf3eee1b3a08cc3568218580a2bb5",
+      "size": 26370,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocreaturecore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echocreaturecore",
       "side": "both",
-      "artifactName": "echocreaturecore-1.0.0-neoforge.jar"
+      "artifactName": "echocreaturecore-1.0.0-neoforge.jar",
+      "id": "echocreaturecore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echocreatureroles-0.1.0-neoforge.jar",
       "assetName": "echocreatureroles-0.1.0-neoforge.jar",
-      "sha256": "ff022b624a67240383beed1b77a770773e3579ae2a58b1b8ba75ed696898048c",
-      "size": 7721,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echocreatureroles-0.1.0-neoforge.jar",
+      "sha256": "2adecf03e8e7170c0940d9b2e73a45f6db77929e9d93e83fa8991e02039cd781",
+      "size": 13212,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echocreatureroles-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echocreatureroles",
       "side": "both",
-      "artifactName": "echocreatureroles-0.1.0-neoforge.jar"
+      "artifactName": "echocreatureroles-0.1.0-neoforge.jar",
+      "id": "echocreatureroles",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoeconomycore-1.0.0-neoforge.jar",
       "assetName": "echoeconomycore-1.0.0-neoforge.jar",
-      "sha256": "29e774f6c9c6ac4a4dcfb9f32feb9da9a6f2e17157397bef96b52c5b304ad7a6",
-      "size": 29050,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoeconomycore-1.0.0-neoforge.jar",
+      "sha256": "42929c1ee4f52b00247076e664657b35e048d8633785f41360ed03755851673f",
+      "size": 34367,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoeconomycore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoeconomycore",
       "side": "both",
-      "artifactName": "echoeconomycore-1.0.0-neoforge.jar"
+      "artifactName": "echoeconomycore-1.0.0-neoforge.jar",
+      "id": "echoeconomycore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echofoundationcore-0.1.0-neoforge.jar",
       "assetName": "echofoundationcore-0.1.0-neoforge.jar",
-      "sha256": "3c5dd87ee99c20dc2246763d9075ae18a9777e68484de6f1b71e2336abde6557",
-      "size": 11066,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echofoundationcore-0.1.0-neoforge.jar",
+      "sha256": "0e5ef37b1a014eca0cd02d4559a419ab6da5d45d52a96b78ad71aabce1cc6676",
+      "size": 16691,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echofoundationcore-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echofoundationcore",
       "side": "both",
-      "artifactName": "echofoundationcore-0.1.0-neoforge.jar"
+      "artifactName": "echofoundationcore-0.1.0-neoforge.jar",
+      "id": "echofoundationcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echohealthcore-1.0.0-neoforge.jar",
       "assetName": "echohealthcore-1.0.0-neoforge.jar",
-      "sha256": "58069013f9beaf183fa53952d15633e12e87960d41790cb2640aa0463e5a34b1",
-      "size": 42600,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echohealthcore-1.0.0-neoforge.jar",
+      "sha256": "b2eda5265de4a9851d959b3c596ad70536089ad082171bde801613afb267f7ef",
+      "size": 47636,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echohealthcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echohealthcore",
       "side": "both",
-      "artifactName": "echohealthcore-1.0.0-neoforge.jar"
+      "artifactName": "echohealthcore-1.0.0-neoforge.jar",
+      "id": "echohealthcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoholomap-1.0.0-neoforge.jar",
       "assetName": "echoholomap-1.0.0-neoforge.jar",
-      "sha256": "e115eb823a6a4a9369df1e7fd9eeeed7d06ad8021bdce01a9955959a24683ca1",
-      "size": 1501534,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoholomap-1.0.0-neoforge.jar",
+      "sha256": "a03851b377b123cd249bc0ed4027d0d0903d5d7ef89b144d9fc63a77889e515d",
+      "size": 1502499,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoholomap-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoholomap",
       "side": "both",
-      "artifactName": "echoholomap-1.0.0-neoforge.jar"
+      "artifactName": "echoholomap-1.0.0-neoforge.jar",
+      "id": "echoholomap",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echohudcore-1.0.0-neoforge.jar",
       "assetName": "echohudcore-1.0.0-neoforge.jar",
-      "sha256": "e89d9c6d5b623d79af7acf0e269e370886323eac3970bef90e1b5e8d56d586c4",
-      "size": 46674,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echohudcore-1.0.0-neoforge.jar",
+      "sha256": "5089ed8668b09fc1b782061184e35a51bc86615df0bcc1c69347f72e2b965f1a",
+      "size": 52011,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echohudcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echohudcore",
       "side": "both",
-      "artifactName": "echohudcore-1.0.0-neoforge.jar"
+      "artifactName": "echohudcore-1.0.0-neoforge.jar",
+      "id": "echohudcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoindex-1.0.0-neoforge.jar",
       "assetName": "echoindex-1.0.0-neoforge.jar",
-      "sha256": "d22dfa9f0d54a5dac438fddaba1012fb6e648c4dd38df373c2cf4106ad04e58d",
-      "size": 591301,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoindex-1.0.0-neoforge.jar",
+      "sha256": "3f74d457b0cb51384642579ea4652c0641c517014de4913e668896c41a28e2b9",
+      "size": 595044,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoindex-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoindex",
       "side": "both",
-      "artifactName": "echoindex-1.0.0-neoforge.jar"
+      "artifactName": "echoindex-1.0.0-neoforge.jar",
+      "id": "echoindex",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echolens-1.0.0-neoforge.jar",
       "assetName": "echolens-1.0.0-neoforge.jar",
-      "sha256": "218271f915103a3420d75ab87946e9eabf469074ab199038f15b79bf5b62f581",
-      "size": 220027,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echolens-1.0.0-neoforge.jar",
+      "sha256": "7a9c1572ac5888a043367124d12771b095c6bf2aeef98fe32863cf423d1ec404",
+      "size": 221150,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echolens-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echolens",
       "side": "both",
-      "artifactName": "echolens-1.0.0-neoforge.jar"
+      "artifactName": "echolens-1.0.0-neoforge.jar",
+      "id": "echolens",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echolootcore-1.0.0-neoforge.jar",
       "assetName": "echolootcore-1.0.0-neoforge.jar",
-      "sha256": "89a29a2bd744c35f3c1fd01b03605c921c067f212ef9a1c126e7a2325217b62f",
-      "size": 24204,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echolootcore-1.0.0-neoforge.jar",
+      "sha256": "57a9279a034e442003198abd19b775fb562570dd28cc71f879470f5a3f034dfc",
+      "size": 29261,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echolootcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echolootcore",
       "side": "both",
-      "artifactName": "echolootcore-1.0.0-neoforge.jar"
+      "artifactName": "echolootcore-1.0.0-neoforge.jar",
+      "id": "echolootcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echomaterialcore-0.1.0-neoforge.jar",
       "assetName": "echomaterialcore-0.1.0-neoforge.jar",
-      "sha256": "2f5ad71dc91507e89a48310fc4517d90ffd222db834e0c3c0cc0da817b4fa8f7",
-      "size": 13328,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echomaterialcore-0.1.0-neoforge.jar",
+      "sha256": "258f234b4d7f946089dbd9e97b178a480c6f01f8175da2b373d15c1a5c20a2c3",
+      "size": 27835,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echomaterialcore-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echomaterialcore",
       "side": "both",
-      "artifactName": "echomaterialcore-0.1.0-neoforge.jar"
+      "artifactName": "echomaterialcore-0.1.0-neoforge.jar",
+      "id": "echomaterialcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echomissioncore-1.0.0-neoforge.jar",
       "assetName": "echomissioncore-1.0.0-neoforge.jar",
-      "sha256": "ff4e185f72a13f4cf050d643814d518ba22f45930c391265382528345887c8a9",
-      "size": 104566,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echomissioncore-1.0.0-neoforge.jar",
+      "sha256": "782e03be18781d2a61854358cd7b76f9dc6161c7b3aa44d8c1462bc3cf3d2c04",
+      "size": 109697,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echomissioncore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echomissioncore",
       "side": "both",
-      "artifactName": "echomissioncore-1.0.0-neoforge.jar"
+      "artifactName": "echomissioncore-1.0.0-neoforge.jar",
+      "id": "echomissioncore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echonetcore-1.0.0-neoforge.jar",
       "assetName": "echonetcore-1.0.0-neoforge.jar",
-      "sha256": "321506da12d55b0e60e548083266e1a2e6ba4812f3c79766c81d3e2e2faf35eb",
-      "size": 68950,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echonetcore-1.0.0-neoforge.jar",
+      "sha256": "08b092f4af0efb5ed10c189c22f86e2ed0d9552bd1aa506fe4a33a8e172bde22",
+      "size": 73882,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echonetcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echonetcore",
       "side": "both",
-      "artifactName": "echonetcore-1.0.0-neoforge.jar"
+      "artifactName": "echonetcore-1.0.0-neoforge.jar",
+      "id": "echonetcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echonpcore-1.0.0-neoforge.jar",
       "assetName": "echonpcore-1.0.0-neoforge.jar",
-      "sha256": "acc8241bc9796a73fcc387369eb52d62563ed41dfcb716d4f692f9068ca8c1d6",
-      "size": 312872,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echonpcore-1.0.0-neoforge.jar",
+      "sha256": "b174090896b55615b464b40ad6c230e4b56b782d56aed5f3571c5fed2a743deb",
+      "size": 318944,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echonpcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echonpcore",
       "side": "both",
-      "artifactName": "echonpcore-1.0.0-neoforge.jar"
+      "artifactName": "echonpcore-1.0.0-neoforge.jar",
+      "id": "echonpcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoopenlandsprotocol-0.1.0-neoforge.jar",
       "assetName": "echoopenlandsprotocol-0.1.0-neoforge.jar",
-      "sha256": "1b0766dece736f3fa97368a47f7ff673c724b1bbadc0d6c8a036d3c9cdce7afa",
-      "size": 282272,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "sha256": "1f2557b4cda496484a8b214fb1204354c7c8a7dd114a080fbc1dff0cc60e5b28",
+      "size": 304058,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoopenlandsprotocol-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echoopenlandsprotocol",
       "side": "both",
-      "artifactName": "echoopenlandsprotocol-0.1.0-neoforge.jar"
+      "artifactName": "echoopenlandsprotocol-0.1.0-neoforge.jar",
+      "id": "echoopenlandsprotocol",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoplatformcore-1.0.0-neoforge.jar",
       "assetName": "echoplatformcore-1.0.0-neoforge.jar",
-      "sha256": "8f31958612cf1263f08873849b4eea8b8facea196bc501d7bf5e417e33a5b3b3",
-      "size": 46708,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoplatformcore-1.0.0-neoforge.jar",
+      "sha256": "8b4a2f31d63da0c0888c08c19d538c13d921ccd5425da5b985fcd55ec7adc0d3",
+      "size": 51598,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoplatformcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoplatformcore",
       "side": "both",
-      "artifactName": "echoplatformcore-1.0.0-neoforge.jar"
+      "artifactName": "echoplatformcore-1.0.0-neoforge.jar",
+      "id": "echoplatformcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoplayercore-1.0.0-neoforge.jar",
       "assetName": "echoplayercore-1.0.0-neoforge.jar",
-      "sha256": "aaf7952a10a910d30e1ef9d0610bc76a07ccf09f29f88e0628214b4946e257da",
-      "size": 69405,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoplayercore-1.0.0-neoforge.jar",
+      "sha256": "a26743356978ec42ae7bca46acb9aab3944c780e6653b3436b722d8aa180f980",
+      "size": 75020,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoplayercore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoplayercore",
       "side": "both",
-      "artifactName": "echoplayercore-1.0.0-neoforge.jar"
+      "artifactName": "echoplayercore-1.0.0-neoforge.jar",
+      "id": "echoplayercore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoprogressioncore-1.0.0-neoforge.jar",
       "assetName": "echoprogressioncore-1.0.0-neoforge.jar",
-      "sha256": "c703f3399a18422b9fc71fbdb026e4948ca77ffc47d1adff348148c5095c3e9a",
-      "size": 46455,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoprogressioncore-1.0.0-neoforge.jar",
+      "sha256": "a941008c94651a90c81620256ab6ebbcf2ff67493224de5c2918334c9b6e6f3d",
+      "size": 52024,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoprogressioncore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoprogressioncore",
       "side": "both",
-      "artifactName": "echoprogressioncore-1.0.0-neoforge.jar"
+      "artifactName": "echoprogressioncore-1.0.0-neoforge.jar",
+      "id": "echoprogressioncore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echorecipecore-1.0.0-neoforge.jar",
       "assetName": "echorecipecore-1.0.0-neoforge.jar",
-      "sha256": "88c6f5da4ba47dd3d593b5a3770523628942528e2a851910d651b3d77c59b41b",
-      "size": 37987,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echorecipecore-1.0.0-neoforge.jar",
+      "sha256": "41c5ac3cd99bfcfae69d57f8b98531dc1c714a56f22abcc57351c1e599802e02",
+      "size": 43167,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echorecipecore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echorecipecore",
       "side": "both",
-      "artifactName": "echorecipecore-1.0.0-neoforge.jar"
+      "artifactName": "echorecipecore-1.0.0-neoforge.jar",
+      "id": "echorecipecore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echorecovery-1.3.0-neoforge.jar",
       "assetName": "echorecovery-1.3.0-neoforge.jar",
-      "sha256": "a723a45e1271176ff8553318dcaa4808a102db37dd8ab7d85ae9d56c97ee0773",
-      "size": 2687852,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echorecovery-1.3.0-neoforge.jar",
+      "sha256": "747f71bbe6c3b35fd3738ad6aa8f1fe0018f0b47f23b669bac818a56841c83fd",
+      "size": 2694979,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echorecovery-1.3.0-neoforge.jar",
       "required": true,
       "moduleId": "echorecovery",
       "side": "both",
-      "artifactName": "echorecovery-1.3.0-neoforge.jar"
+      "artifactName": "echorecovery-1.3.0-neoforge.jar",
+      "id": "echorecovery",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoruntimeguard-1.0.0-neoforge.jar",
       "assetName": "echoruntimeguard-1.0.0-neoforge.jar",
-      "sha256": "a080b3b018be1e50c6d6880bafc1dccddf204a76bf48546c32ab4f925650126e",
-      "size": 127749,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoruntimeguard-1.0.0-neoforge.jar",
+      "sha256": "d639cc2b798cd6369989e67cbd76e406980aeae8e47ecdc8697682746b8fd056",
+      "size": 133530,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoruntimeguard-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoruntimeguard",
       "side": "both",
-      "artifactName": "echoruntimeguard-1.0.0-neoforge.jar"
+      "artifactName": "echoruntimeguard-1.0.0-neoforge.jar",
+      "id": "echoruntimeguard",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoschemacore-1.0.0-neoforge.jar",
       "assetName": "echoschemacore-1.0.0-neoforge.jar",
-      "sha256": "ab62772a498d6b362d3af909624eac0aa7c01556c6d1e3260f9f5eda1fe141d2",
-      "size": 30784,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoschemacore-1.0.0-neoforge.jar",
+      "sha256": "3fd00375fcbb49ab714d2a733340b63e420329331d57db1f2e73a983dc084410",
+      "size": 35669,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoschemacore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoschemacore",
       "side": "both",
-      "artifactName": "echoschemacore-1.0.0-neoforge.jar"
+      "artifactName": "echoschemacore-1.0.0-neoforge.jar",
+      "id": "echoschemacore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoscreencore-1.0.0-neoforge.jar",
       "assetName": "echoscreencore-1.0.0-neoforge.jar",
-      "sha256": "93be1132656eb1350f8d9a2d0afd7c5864c3067c3bf9b15035e2061765118142",
-      "size": 392527,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoscreencore-1.0.0-neoforge.jar",
+      "sha256": "972cb77f6c9ac9401a99897bcce503f3516b50863954888e6d9d2521b4321c22",
+      "size": 398395,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoscreencore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoscreencore",
       "side": "both",
-      "artifactName": "echoscreencore-1.0.0-neoforge.jar"
+      "artifactName": "echoscreencore-1.0.0-neoforge.jar",
+      "id": "echoscreencore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echosocialcore-1.0.0-neoforge.jar",
       "assetName": "echosocialcore-1.0.0-neoforge.jar",
-      "sha256": "d38f5645dbfc4c7f59c7095c0c19120d3a2852d594b61b70cd774adcd002677d",
-      "size": 57175,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echosocialcore-1.0.0-neoforge.jar",
+      "sha256": "f8f4bb42e2db29710ba9185f55b4c77eeb0461a3a4ed2e99ac6c46dc7293aa19",
+      "size": 62525,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echosocialcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echosocialcore",
       "side": "both",
-      "artifactName": "echosocialcore-1.0.0-neoforge.jar"
+      "artifactName": "echosocialcore-1.0.0-neoforge.jar",
+      "id": "echosocialcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echosoundcore-1.0.0-neoforge.jar",
       "assetName": "echosoundcore-1.0.0-neoforge.jar",
-      "sha256": "6d7b18b6120e068536a50a37601d19ed0f03f543f7f3c2b679fc2f8f3e671631",
-      "size": 11079915,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echosoundcore-1.0.0-neoforge.jar",
+      "sha256": "c3fb3f3249e7f56a1f6c3b1e481b0b0ae50158c267d84c53a90e51b8b0c5332b",
+      "size": 11085994,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echosoundcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echosoundcore",
       "side": "both",
-      "artifactName": "echosoundcore-1.0.0-neoforge.jar"
+      "artifactName": "echosoundcore-1.0.0-neoforge.jar",
+      "id": "echosoundcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echostationcore-0.1.0-neoforge.jar",
       "assetName": "echostationcore-0.1.0-neoforge.jar",
-      "sha256": "3114df3c176e65d55a40c5fd129288129b9f029cfa2411d2fd9501fe2356d5f8",
-      "size": 9275,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echostationcore-0.1.0-neoforge.jar",
+      "sha256": "e2bad635f969f70082e3656d9d573760bcf31de03a5a2e0deb8512b87049e6db",
+      "size": 17217,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echostationcore-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echostationcore",
       "side": "both",
-      "artifactName": "echostationcore-0.1.0-neoforge.jar"
+      "artifactName": "echostationcore-0.1.0-neoforge.jar",
+      "id": "echostationcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echostructurecore-1.0.0-neoforge.jar",
       "assetName": "echostructurecore-1.0.0-neoforge.jar",
-      "sha256": "d50398bf69a6fd2f5a2e2dc95cc62c6387ee13cbb0f9d50d4bbf7bd1d9fcb40f",
-      "size": 29037,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echostructurecore-1.0.0-neoforge.jar",
+      "sha256": "819d9325ee465d8b42a09e645a28c0c89b48ae8a8988d36982ccb898ebd0a974",
+      "size": 34363,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echostructurecore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echostructurecore",
       "side": "both",
-      "artifactName": "echostructurecore-1.0.0-neoforge.jar"
+      "artifactName": "echostructurecore-1.0.0-neoforge.jar",
+      "id": "echostructurecore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoterminal-1.0.0-neoforge.jar",
       "assetName": "echoterminal-1.0.0-neoforge.jar",
-      "sha256": "e62f124caba3432e32e2654d9464019668525364d9e014f1b6d4587bb130b848",
-      "size": 23017506,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoterminal-1.0.0-neoforge.jar",
+      "sha256": "ea6aaa408788d22f1e1341f94d3470edefd995c2e9fc8b36cc455cd21e7a11f6",
+      "size": 22996376,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoterminal-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoterminal",
       "side": "both",
-      "artifactName": "echoterminal-1.0.0-neoforge.jar"
+      "artifactName": "echoterminal-1.0.0-neoforge.jar",
+      "id": "echoterminal",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echothemecore-1.3.0-neoforge.jar",
       "assetName": "echothemecore-1.3.0-neoforge.jar",
-      "sha256": "3ced2b8e08ddeddd9078a270c506cc289fd6a448ddf27eff16d197203516a86c",
-      "size": 69621173,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echothemecore-1.3.0-neoforge.jar",
+      "sha256": "7ac0576634cc7db4c736ea9b0fe56144b71d9957e87a857f77f0f471dfdec8a9",
+      "size": 69627526,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echothemecore-1.3.0-neoforge.jar",
       "required": true,
       "moduleId": "echothemecore",
       "side": "both",
-      "artifactName": "echothemecore-1.3.0-neoforge.jar"
+      "artifactName": "echothemecore-1.3.0-neoforge.jar",
+      "id": "echothemecore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echotoolcore-0.1.0-neoforge.jar",
       "assetName": "echotoolcore-0.1.0-neoforge.jar",
-      "sha256": "97284cddc025738d953b57edc4daa2076bfcb5e81bb0e55533eaa42cce166be5",
-      "size": 9086,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echotoolcore-0.1.0-neoforge.jar",
+      "sha256": "06c56ca2066a8eba2ae898b2a8cf8662d71bd411b29bcea788f9cb7acb078ad0",
+      "size": 16695,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echotoolcore-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echotoolcore",
       "side": "both",
-      "artifactName": "echotoolcore-0.1.0-neoforge.jar"
+      "artifactName": "echotoolcore-0.1.0-neoforge.jar",
+      "id": "echotoolcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echotutorialcore-1.0.0-neoforge.jar",
       "assetName": "echotutorialcore-1.0.0-neoforge.jar",
-      "sha256": "d502b2a4e52dfdadd9b274b0a4d3540f45ab28391f4a25d7ccbc7a8ee5e69ec6",
-      "size": 215230,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echotutorialcore-1.0.0-neoforge.jar",
+      "sha256": "d7cc3706f139980fbb85a694d63765a69a997991e75f875026e00ae983524685",
+      "size": 220748,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echotutorialcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echotutorialcore",
       "side": "both",
-      "artifactName": "echotutorialcore-1.0.0-neoforge.jar"
+      "artifactName": "echotutorialcore-1.0.0-neoforge.jar",
+      "id": "echotutorialcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echovalidationcore-1.0.0-neoforge.jar",
       "assetName": "echovalidationcore-1.0.0-neoforge.jar",
-      "sha256": "4bd332ffd2753b3bdb2464a7d475085c1a8c5dc13f74db7ad2cc75b7c916ec2e",
-      "size": 42072,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echovalidationcore-1.0.0-neoforge.jar",
+      "sha256": "cb4cbde2b3c65acfe2dfa75d45eef3d3fc47cf926b85e2cc67d3bdd6403d8444",
+      "size": 47124,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echovalidationcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echovalidationcore",
       "side": "both",
-      "artifactName": "echovalidationcore-1.0.0-neoforge.jar"
+      "artifactName": "echovalidationcore-1.0.0-neoforge.jar",
+      "id": "echovalidationcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoweathercore-1.0.0-neoforge.jar",
       "assetName": "echoweathercore-1.0.0-neoforge.jar",
-      "sha256": "bc1fd04b4a2a237761595a6e1554133ccd99143f066a4aab725488b74f99b865",
-      "size": 253320,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoweathercore-1.0.0-neoforge.jar",
+      "sha256": "4d72914627872021cef9b0101e8caf8d9bd7965e338d4e22064490409f3e030e",
+      "size": 257550,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoweathercore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoweathercore",
       "side": "both",
-      "artifactName": "echoweathercore-1.0.0-neoforge.jar"
+      "artifactName": "echoweathercore-1.0.0-neoforge.jar",
+      "id": "echoweathercore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoworldcore-1.0.0-neoforge.jar",
       "assetName": "echoworldcore-1.0.0-neoforge.jar",
-      "sha256": "a79ce80de4bf8eb0f246e826caa9e7edf0dcd0e0d3046c8031d429abcf42963f",
-      "size": 178005,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoworldcore-1.0.0-neoforge.jar",
+      "sha256": "3242f1974e1234e744bd4df30c5654a57f1e4648ad71449c518ee0d63db9259c",
+      "size": 183149,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoworldcore-1.0.0-neoforge.jar",
       "required": true,
       "moduleId": "echoworldcore",
       "side": "both",
-      "artifactName": "echoworldcore-1.0.0-neoforge.jar"
+      "artifactName": "echoworldcore-1.0.0-neoforge.jar",
+      "id": "echoworldcore",
+      "artifactFamily": "neoforge"
     },
     {
       "path": "mods/echoworldstarter-0.1.0-neoforge.jar",
       "assetName": "echoworldstarter-0.1.0-neoforge.jar",
-      "sha256": "db323686afcb6ed1f1c3d6db93325cac08924aba5609ef86a7c41f488b471d1a",
-      "size": 10401,
-      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-openlands-client-fix-20260614/echoworldstarter-0.1.0-neoforge.jar",
+      "sha256": "9d756323c91a2a2902e84f7a6095c19ab47b02cc2682d0eb5b525e647207ccd5",
+      "size": 17966,
+      "url": "https://github.com/knoxhack/ECHO-Modules/releases/download/modules-runtime-parity-hotfix-20260614/echoworldstarter-0.1.0-neoforge.jar",
       "required": true,
       "moduleId": "echoworldstarter",
       "side": "both",
-      "artifactName": "echoworldstarter-0.1.0-neoforge.jar"
+      "artifactName": "echoworldstarter-0.1.0-neoforge.jar",
+      "id": "echoworldstarter",
+      "artifactFamily": "neoforge"
     }
   ],
   "modules": [
@@ -1173,8 +1257,8 @@
       "legal_content_audit_missing"
     ]
   },
-  "artifactSha256": "a2023012ca9441dffc9444dff095dd74486c35f7b60cb2bf55d319a8c99e36f5",
-  "artifactSize": 112277135,
+  "artifactSha256": "0c4a31873d718f0e222acb25dbae5197c03c6b14c1b05f0b007ee1136a2bd5f5",
+  "artifactSize": 112541951,
   "releaseTag": "v0.1.1-openlands-neoforge-edition",
   "releaseUrl": "https://github.com/knoxhack/ECHO-Openlands-NeoForge-Edition/releases/tag/v0.1.1-openlands-neoforge-edition",
   "minecraft": "26.1.2",
