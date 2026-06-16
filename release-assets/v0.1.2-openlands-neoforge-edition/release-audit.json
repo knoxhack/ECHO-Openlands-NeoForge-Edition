@@ -5,20 +5,20 @@
   "name": "Openlands NeoForge Edition",
   "version": "0.1.2",
   "channel": "alpha",
-  "moduleRelease": "release-index-current-module-artifacts-20260616",
-  "moduleSourceRevision": "ECHO-Release-Index modules/*.json current artifacts, 2026-06-16",
+  "moduleRelease": "modules-canonical-full-20260616",
+  "moduleSourceRevision": "ECHO-Modules modules-canonical-full-20260616 (9f25b667), 2026-06-16",
   "releaseTag": "v0.1.2-openlands-neoforge-edition",
   "sourceRepo": "knoxhack/ECHO-Openlands-NeoForge-Edition",
   "moduleCount": 42,
   "artifact": {
     "name": "openlands-neoforge-edition-0.1.2.zip",
-    "sha256": "7d65b495ca13f196ab04c481bfa850dfe8523846452dc4b07ce07dc99ebc92fc",
-    "size": 112640613
+    "sha256": "f5b79f968777a1ab12ea60f7064ecfda0b8a8d6d2a03814d4e8ed31879b9a7d2",
+    "size": 112637980
   },
   "manifest": {
     "name": "openlands-neoforge-edition-alpha-0.1.2.pack.json",
-    "sha256": "cb7b25b034724f7200239eb31928be0253bc09923dccf3c380547710bb3d169b",
-    "size": 86871
+    "sha256": "b0de83b372821adb9dab749d9e93a0ce21b7ead8a15146dd04e3fb13a279c85e",
+    "size": 85509
   },
-  "generatedAt": "2026-06-16T10:10:42.283Z"
+  "generatedAt": "2026-06-16T15:37:49.143Z"
 }
