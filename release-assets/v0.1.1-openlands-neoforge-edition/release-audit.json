@@ -12,13 +12,13 @@
   "moduleCount": 42,
   "artifact": {
     "name": "openlands-neoforge-edition-0.1.1.zip",
-    "sha256": "fa7e68581a1c13a89c209818ca9ff08917b6388da5ea586ddf50640ce4a7ccab",
-    "size": 112637226
+    "sha256": "1a83c949adcd92adea2ecfc5504e893d777f0e017eb88da7e81cc4ef3c368005",
+    "size": 112636408
   },
   "manifest": {
     "name": "openlands-neoforge-edition-alpha-0.1.1.pack.json",
-    "sha256": "e6f91837f94859322f1952facbf612980a71dc5bd33f4a274f54f8f640151350",
-    "size": 86675
+    "sha256": "a297da24eacaac164a13a18ce5c98c7f60875f18abb51e4a80c96cab42f611ef",
+    "size": 86445
   },
-  "generatedAt": "2026-06-16T01:22:58.691Z"
+  "generatedAt": "2026-06-16T02:21:39.630Z"
 }
