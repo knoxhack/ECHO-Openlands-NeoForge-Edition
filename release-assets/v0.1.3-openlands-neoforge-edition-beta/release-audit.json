@@ -1,0 +1,24 @@
+{
+  "schemaVersion": "echo.official_modpack.release_audit.v1",
+  "status": "rebuilt-from-current-module-catalog",
+  "pack": "openlands-neoforge-edition",
+  "name": "Openlands NeoForge Edition",
+  "version": "0.1.3",
+  "channel": "beta",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleSourceRevision": "ECHO-Modules modules-beta-full-20260620 (2a1c2ec8), 2026-06-20",
+  "releaseTag": "v0.1.3-openlands-neoforge-edition-beta",
+  "sourceRepo": "knoxhack/ECHO-Openlands-NeoForge-Edition",
+  "moduleCount": 42,
+  "artifact": {
+    "name": "openlands-neoforge-edition-0.1.3.zip",
+    "sha256": "80cfe8eeb9981280940f2e26af4a60df53e226a50fcacf5d54b8b77d96c35db5",
+    "size": 112719814
+  },
+  "manifest": {
+    "name": "openlands-neoforge-edition-beta-0.1.3.pack.json",
+    "sha256": "36c19661d4d5d65caf9f03876829d9d5503c0cdee318ebbc41065eeef6928f37",
+    "size": 85143
+  },
+  "generatedAt": "2026-06-20T04:41:54.179Z"
+}

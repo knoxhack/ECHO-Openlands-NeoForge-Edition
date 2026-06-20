@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "echo.official_modpack.export_report.v1",
+  "status": "rebuilt",
+  "pack": "openlands-neoforge-edition",
+  "name": "Openlands NeoForge Edition",
+  "channel": "beta",
+  "version": "0.1.3",
+  "runtimeTarget": "neoforge",
+  "moduleArtifactFamily": "neoforge",
+  "moduleRelease": "modules-beta-full-20260620",
+  "moduleCount": 42,
+  "generatedAt": "2026-06-20T04:41:50.563Z",
+  "sourceRepo": "knoxhack/ECHO-Openlands-NeoForge-Edition",
+  "releaseTag": "v0.1.3-openlands-neoforge-edition-beta"
+}
